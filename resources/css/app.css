@@ -1,0 +1,6 @@
+.display{
+
+    display: grid;
+    place-items: center;
+    /* word-wrap: ; */
+}

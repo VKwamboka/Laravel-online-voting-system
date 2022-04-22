@@ -1,0 +1,2 @@
+$path= $image->storeAs('public/candidateImg', $imagename);
+  <img src="{{asset('storage/candidateImg/'.$candidate->photo)}}" alt="" width="100" height="100" srcset="">
